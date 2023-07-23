@@ -11,4 +11,4 @@ more packages listed in requirements.txt
 PYTHONPATH="src" python code/dbp2.0/rmgcn_main.py
 ```
 ## Acknowledgement 
-We refer to some codes of the following repo: [OpenEA](https://github.com/nju-websoft/OpenEA).
+We refer to some codes of the following repo: [OpenEA](https://github.com/nju-websoft/OpenEA). Thanks to the authors and contributors of the above project.
